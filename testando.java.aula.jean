@@ -1,0 +1,141 @@
+
+import java.util.Scanner;
+
+public class testando {
+	public static void main(String[] args) {
+		
+		
+//		int numero1 = 20;
+//		
+//		int numero2 = 30;
+//		
+//		int numeros = numero1 + numero2;
+//				
+//			System.out.println("a soma dos numeros é " + numeros +  " e os numeros são " + numero1 + " e " +  numero2);
+//
+//				exercicio 2 acima
+		
+		
+		
+				// exercicio 04 abaixo 
+		
+//		double salarioCliente;
+//		
+//		double salarioMinimo;
+//		
+//		double somaSalario;
+//		
+//		Scanner in = new Scanner (System.in);
+//		
+//		System.out.println("informe salario minimo: ");
+//		
+//		salarioMinimo = in.nextDouble();
+//		
+//		System.out.println("informe salario cliente: ");
+//		
+//		salarioCliente = in.nextDouble();
+//		
+//		somaSalario = salarioCliente/salarioMinimo;
+//		
+//		if (salarioCliente >= salarioMinimo){
+//			
+//			System.out.println((int) somaSalario + " Salário Mínimo =  " + (salarioCliente - salarioMinimo));
+//			
+//		} 	else {
+//			System.out.println(" Faltam R$ " + ((salarioCliente - salarioMinimo) * -1 ) + " saldo insuficiente  ");
+//			}
+//		}
+//	}
+		
+		
+			// exercicio 6 abaixo 
+//		
+//	Scanner in = new Scanner (System.in);
+//		
+//		int idade; 
+//		
+//		System.out.println("qual sua idade ");
+//		
+//		idade = in.nextInt ();
+//
+//		if (idade <= 16) {
+//			
+//			System.out.println("voto não obrigatório ");
+//			
+//			
+//		} else if ((idade >= 18) && (idade <= 65)) {
+//			
+//			System.out.println("você precisara votar .");
+//			
+//		} else {
+//			System.out.println("Seu voto é facultativo.");
+//		}
+//	}
+//
+//}
+		
+			//  exercicio 7  abaixo 
+		
+		
+//		double salario;
+//		
+//		int idade;
+//		
+//		
+//		Scanner in = new Scanner (System.in);
+//		
+//		System.out.println("qual sua idade? ");
+//		
+//		idade = in.nextInt ();
+//		
+//		System.out.println("informe seu salario. ");
+//		
+//		salario = in.nextInt();
+//		
+//		if (idade >= 18 && salario >= 2000) {
+//			
+//			System.out.println("Parabéns! veiculo aporvado ");
+//			
+//		} else {
+//			
+//			System.out.println(" proposta negada pelo banco ");
+//		}
+//		
+//	}
+//
+//}
+//			 exercicio  8
+	
+		
+//			Scanner in = new Scanner (System.in);
+//		
+//		System.out.println("1 - Gestante");
+//		System.out.println("2 - Idoso (a)");  		
+//		System.out.println("3 - Deficiente");
+//		System.out.println("4 - nenhuma das opções anteriores");
+//		
+//		System.out.println(" Digite uma das opções: ");
+//		int opcao = in.nextInt();
+//		
+//		if (opcao == 4) {
+//			System.out.println("Você não tem direito ao atendimento prioritário.");
+//			
+//		} else {
+//			
+//			System.out.println("Você tem direito ao atendimento prioritário.");
+//		}
+//	
+//	}
+//}
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
